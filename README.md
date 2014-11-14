@@ -6,6 +6,7 @@ Get your Omnibus GtiLab instance up and running in minutes
 Requirements
 ==============
 VirtualBox 4.3.x +
+
 Vagrant 1.6.5 +
 
 How to
@@ -16,12 +17,15 @@ cd gitlab-vagrant
 vagrant up
 ```
 
-After all provisioning finished you can go to:
-	http://192.168.66.10/
+After all provisioning finished you can go to
 
-And login with default:
-	Username: root 
-	Password: 5iveL!fe
+http://192.168.66.10/
+
+And login with default
+
+Username: root 
+	
+Password: 5iveL!fe
 
 DONE! :)
 
